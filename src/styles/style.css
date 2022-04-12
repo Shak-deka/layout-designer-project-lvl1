@@ -223,7 +223,7 @@ header .btn.nav {
   margin-top: 30px;
 
   border: none;
-  filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 15%));
+  filter: drop-shadow(0 16px 32px rgba(0 0 0 15%));
 }
 
 /* NAVIGATION */
@@ -233,8 +233,7 @@ header .btn.nav {
 }
 
 #navigation .container {
-  flex-direction: row;
-  flex-wrap: wrap;
+  flex-flow: row wrap ;
   align-content: flex-start;
   padding-top: 200px;
 }
@@ -305,7 +304,7 @@ header .btn.nav {
 .bias-img {
   flex-shrink: 0;
 
-  filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 15%));
+  filter: drop-shadow(0 16px 32px rgba(0 0 0 15%));
 }
 
 .bias-img.img-left {
