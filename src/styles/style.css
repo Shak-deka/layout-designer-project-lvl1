@@ -231,8 +231,8 @@ header .btn.nav {
 }
 
 #navigation .container {
-  flex-direction: row;
-  /* flex-flow: wrap; */
+  /* flex-direction: row; */
+  flex-flow: wrap;
   align-content: flex-start;
   padding-top: 200px;
 }
