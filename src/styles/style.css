@@ -97,6 +97,8 @@ body {
   max-width: var(--max-content-width);
   margin: 0 auto;
   padding: 100px 0;
+
+  overflow: hidden;
 }
 
 h1,
@@ -187,7 +189,7 @@ header .container {
 .header-img {
   position: absolute;
   top: 55px;
-  right: -170px;
+  right: -270px;
 }
 
 header .btn.nav {
