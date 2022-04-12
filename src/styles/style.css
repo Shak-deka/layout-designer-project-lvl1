@@ -1,5 +1,6 @@
 /** CSS STYLE **/
 
+
 :root {
   /** colors **/
   --white: #fff;
@@ -186,7 +187,7 @@ header .container {
 .header-img {
   position: absolute;
   top: 55px;
-  right: -270px;
+  right: -230px;
 }
 
 header .btn.nav {
